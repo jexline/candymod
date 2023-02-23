@@ -1,0 +1,21 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "SS ",
+        "SS ",
+        "  T"
+    ],
+    "key": {
+        "S": {
+            "item": "minecraft:sugar"
+        },
+        
+        "T":
+        {
+            "item": "minecraft:stick"
+        }
+    },
+    "result": {
+        "item": "candymod:lollipop"
+    }
+}
